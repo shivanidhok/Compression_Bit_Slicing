@@ -3,7 +3,9 @@ It includes MATLAB function that performs compression of an image by bit slicing
 Three functions included as follows:
 
 Function: CompressBitSlicing()
+
 ===========================Function Description==============================
+
 Author: Shivani Dhok
 Date of Creation: January 10, 2019
 Digital Image Processing
@@ -24,7 +26,9 @@ Output:
 -------------------------------------------------------------------------------------
   
 Function: Dec2Bin_SGD()
+
 ===========================Function Description==============================
+
 Author: Shivani Dhok
 Date of Creation: January 10, 2019
 Digital Image Processing
@@ -43,7 +47,9 @@ Output:
 -------------------------------------------------------------------------------------
 
 Function: Bin2Dec_SGD()
+
 ===========================Function Description==============================
+
 Author: Shivani Dhok
 Date of Creation: January 10, 2019
 Digital Image Processing
